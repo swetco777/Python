@@ -36,12 +36,12 @@ else:
 # fp.write(sys.argv[2])
 # Assignment :
 # Write all the program which we did till now in command line argument.
-a= int(sys.argv[2])
-b=int(sys.argv[3])
-def add(a,b):
-    return a+b
-x= add(a,b)
-print(x)
+# a= int(sys.argv[2])
+# b=int(sys.argv[3])
+# def add(a,b):
+#     return a+b
+# x= add(a,b)
+# print(x)
 # print (add(3,4))
 
 
